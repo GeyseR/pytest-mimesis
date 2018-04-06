@@ -2,6 +2,7 @@ from setuptools import setup
 
 import pytest_mimesis
 
+
 setup(
     name='pytest-mimesis',
     version=pytest_mimesis.__version__,
